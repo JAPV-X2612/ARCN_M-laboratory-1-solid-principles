@@ -193,12 +193,6 @@ javadoc/
 apidocs/
 
 # ===================================
-# GitHub Codespaces
-# ===================================
-.devcontainer/
-!.devcontainer/devcontainer.json
-
-# ===================================
 # Backup Files
 # ===================================
 *.backup
